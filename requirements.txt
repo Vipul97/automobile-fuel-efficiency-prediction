@@ -1,7 +1,7 @@
-pandas
-numpy
-scikit-learn
 matplotlib
+numpy
+pandas
 plotly
-seaborn
+scikit-learn
 scipy
+seaborn
