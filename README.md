@@ -9,7 +9,7 @@ The goal of this project is to experiment with various machine learning models i
 The dataset is available at https://archive.ics.uci.edu/ml/datasets/auto+mpg.
 
 ### Plot of MPG Against Horsepower, with Weight as Color 
-![Plot of MPG Against Horsepower, with Weight as Color ](mpg_weight_horsepower.png)
+![Plot of MPG Against Horsepower, with Weight as Color](mpg_weight_horsepower.png)
 
 ## Results
 **Random Forest Regression** gives the best results on the test data set, having the lowest root mean squared error of **0.90** and the highest R squared score of **0.92**.
