@@ -3,7 +3,7 @@
 ## Project Goal
 The goal of this project is to experiment with various machine learning models in order to find one that best predicts the fuel efficiency (in mpg) of late 1970's and early 1980's automobiles based on their specifications like cylinders, horsepower and weight.
 
-**View the analysis [here](https://github.com/Vipul97/automobile_fuel-efficiency-prediction/blob/main/automobile_fuel_efficiency_prediction.ipynb).**
+**View the analysis [here](https://github.com/Vipul97/automobile-fuel-efficiency-prediction/blob/main/automobile_fuel_efficiency_prediction.ipynb).**
 
 ## Data Source
 The dataset is available at https://archive.ics.uci.edu/ml/datasets/auto+mpg.
