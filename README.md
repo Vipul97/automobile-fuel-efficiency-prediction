@@ -1,4 +1,4 @@
-# Automobile Fuel Comsumption Prediction
+# Automobile Fuel Consumption Prediction
 
 ## Project Goal
 The goal of this project is to experiment with various machine learning models in order to find one that best predicts the fuel consumption (in mpg) of late 1970's and early 1980's automobiles based on their specifications like cylinders, horsepower and weight.
